@@ -1,0 +1,5 @@
+/mnt/sdd1/selvas_wav/avc/wav_trimmed_22050/avc00314.wav|지금 출동중입니다.|avc|0|0
+/mnt/sdd1/selvas_wav/avc/wav_trimmed_22050/avc00314.wav|출산을 축하드려요.|avc|0|0
+/mnt/sdd1/selvas_wav/avc/wav_trimmed_22050/avc00314.wav|후식도 준비했으니 드세요.|avc|0|0
+/mnt/sdd1/selvas_wav/avc/wav_trimmed_22050/avc00314.wav|점검해 볼게요.|avc|0|0
+/mnt/sdd1/selvas_wav/avc/wav_trimmed_22050/avc00314.wav|어디가 아프셔서 오셨어요?|avc|0|0

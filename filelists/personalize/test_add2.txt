@@ -1,0 +1,5 @@
+/mnt/sdd1/selvas_wav/add/wav_trimmed_22050/add00153.wav|무슨 일이세요 말해봐요.|add|0|0
+/mnt/sdd1/selvas_wav/add/wav_trimmed_22050/add00153.wav|오른쪽으로 돌아가시면 됩니다 어렵지 않으시죠?|add|0|0
+/mnt/sdd1/selvas_wav/add/wav_trimmed_22050/add00153.wav|골프는 언제부터 시작하셨어요?|add|0|0
+/mnt/sdd1/selvas_wav/add/wav_trimmed_22050/add00153.wav|다음 이야기로 넘어가 볼까요?|add|0|0
+/mnt/sdd1/selvas_wav/add/wav_trimmed_22050/add00153.wav|주말에 배드민턴 같이 배워볼래요?|add|0|0
